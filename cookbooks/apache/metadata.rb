@@ -1,6 +1,6 @@
 name 'apache'
 maintainer 'Dave'
-maintainer_email 'dvknmartin@gmail.com'
+maintainer_email 'davek.martin@state.de.us'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
